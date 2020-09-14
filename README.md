@@ -1,4 +1,4 @@
-# A statically generated blog example using Next.js and DatoCMS
+# A statically generated blog example using Next.js and DatoCMS - build
 
 This example showcases Next.js's [Static Generation](/docs/basic-features/pages.md) feature using [DatoCMS](https://www.datocms.com/) as the data source.
 
